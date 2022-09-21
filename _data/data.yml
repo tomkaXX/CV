@@ -180,9 +180,6 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-     - name: Java
-        level: 98%
-
       - name: Python & Django
         level: 98%
 
