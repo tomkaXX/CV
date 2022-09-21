@@ -7,25 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Tamara Koliada
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: tomacolyada@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    city: Zurich, 8038
+    country: Switzerland
+    work visa: Permit S
+    citizenship: Ukraine
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: tomkaX
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    twitter: 'https://twitter.com/T0MKA'
+    stack-overflow: https://stackoverflow.com/users/10455534/tomka-koliada
+    Facebook: https://www.facebook.com/tomkka/
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
