@@ -180,6 +180,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+     - name: Java
+        level: 98%
+
       - name: Python & Django
         level: 98%
 
@@ -199,4 +202,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Tamara Koliada</a>
