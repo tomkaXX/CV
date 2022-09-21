@@ -2,7 +2,7 @@
 
 
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://tomkax.github.io/CV).
 
 <table>
   <tr>
