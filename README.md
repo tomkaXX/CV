@@ -1,10 +1,4 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://tomkax.github.io/CV).
 
@@ -25,10 +19,10 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://tomk
 
 ## Installation
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* [Fork](https://github.com/tomkax/CV/fork) the repository
 * Go to settings and set master branch as Github Pages source.
-* Your new site should be ready at `https://<username>.github.io/online-cv/`
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+* Your new site should be ready at `https://<username>.github.io/CV/`
+* Printable version of the site can be found at `https://<username>.github.io/CV/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
 Change all the details from one place: ``_data/data.yml``
 
@@ -66,6 +60,13 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
 =======
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
+
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 >>>>>>> 9d97726e5be3312de0f33c1587553005c8365d80
