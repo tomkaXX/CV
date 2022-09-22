@@ -2,20 +2,6 @@
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://tomkax.github.io/CV).
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
 
 ## Installation
 
@@ -55,11 +41,6 @@ Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
-<<<<<<< HEAD
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-=======
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
@@ -69,5 +50,5 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
->>>>>>> 9d97726e5be3312de0f33c1587553005c8365d80
+
 
