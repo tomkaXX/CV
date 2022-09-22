@@ -29,7 +29,3 @@ Changes *_data/data.yml* will be visible after a while.
  Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
-
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
